@@ -1,0 +1,19 @@
+{
+  "name": "npackr-express-api",
+  "version": "1.0.0",
+  "description": "A new express API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "npackr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
